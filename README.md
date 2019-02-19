@@ -31,3 +31,4 @@
 
 ![HBCORSMap](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/HB_CORS_map_doc.jpg)
 
+![RockClimb](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Rock_Climbing.jpg)
