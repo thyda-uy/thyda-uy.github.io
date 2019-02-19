@@ -24,3 +24,5 @@
 ![r37hhi](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Route37_HHI.jpg)
 
 ![r37min](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Route37_Minority.jpg)
+
+###### *Note: projects with sensitive ridership counts derived from internal databases were excluded from this portfolio*
