@@ -26,3 +26,8 @@
 ![r37min](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Route37_Minority.jpg)
 
 ###### *Note: projects with sensitive ridership counts derived from internal databases were excluded from this portfolio*
+
+![HBCORSDoc](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/HB_CORS_doc.jpg)
+
+![HBCORSMap](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/HB_CORS_map_doc.jpg)
+
