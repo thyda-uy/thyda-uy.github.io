@@ -5,11 +5,13 @@
 
 ![bikeways](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/LB_Bikeways2.jpg)
 
+![commcenter](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/comm_centers.jpg)
+
 ![sigint](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Signalized%20intersections.jpg)
 
 ![prophighlight](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/FY20_ProposedSC_Highlights.jpg)
 
-#### *Title VI Maps*
+### *Title VI Maps*
 
 ![exb2](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb2_MinorityPct.jpg) 
 
