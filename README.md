@@ -1,6 +1,10 @@
 # GIS Portfolio
 ### Long Beach Transit Projects
 ![district2map](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/District2_map.jpg)
+![bikeways](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/LB_Bikeways2.jpg)
+![prophighlight](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/FY20_ProposedSC_Highlights.jpg)
+![sigint](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Signalized%20intersections.jpg)
+
 #### *Title VI Maps*
 ![exb2](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb2_MinorityPct.jpg) 
 ![exb6](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb6_MHHI.jpg)
