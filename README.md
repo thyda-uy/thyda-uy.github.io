@@ -12,11 +12,7 @@
 ![prophighlight](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/FY20_ProposedSC_Highlights.jpg)
 
 
-### *Title VI Maps*
-
-![exb2](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb2_MinorityPct.jpg) 
-
-![exb8](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb8_MinorityLowInc.jpg)
+### *Title VI Document and Maps*
 
 ![rt37](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Route37Modification.jpg)
 
@@ -31,6 +27,12 @@
 ![rt37_5](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Route37Modification5.jpg)
 
 ![rt37_6](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Route37Modification6.jpg)
+
+![exb2](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb2_MinorityPct.jpg) 
+
+![exb8](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/Exb8_MinorityLowInc.jpg)
+
+### *School Projects*
 
 ![HBCORSDoc](https://nbviewer.jupyter.org/github/thyda-uy/thyda-uy.github.io/blob/master/HB_CORS_doc.jpg)
 
